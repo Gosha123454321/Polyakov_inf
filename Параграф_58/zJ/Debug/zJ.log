@@ -1,0 +1,4 @@
+﻿  zJ.cpp
+D:\git123\Polyakov_inf\Параграф_58\zJ\zJ.cpp(15,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\git123\Polyakov_inf\Параграф_58\zJ\zJ.cpp(16,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  zJ.vcxproj -> D:\git123\Polyakov_inf\Параграф_58\zJ\Debug\zJ.exe

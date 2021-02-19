@@ -1,0 +1,3 @@
+﻿  zI.cpp
+D:\git123\Polyakov_inf\Параграф_58\zI\zI.cpp(19,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  zI.vcxproj -> D:\git123\Polyakov_inf\Параграф_58\zI\Debug\zI.exe
